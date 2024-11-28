@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Add Delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Add PointOfSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddingItems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddSupplies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeductSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Delivery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryMonitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Maintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PointOfSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesMonitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
